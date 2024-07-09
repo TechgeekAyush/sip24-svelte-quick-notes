@@ -14,3 +14,7 @@ To enhance your learning experience and add more functionality to your project, 
 2. Use IndexedDB for storing notes instead of local storage. For easier interaction with IndexedDB, consider using the Dexie.js library.
 
 These challenges are designed to push your skills further and give you hands-on experience with more complex application features.
+
+# Link to the web app
+
+[SvelteScribe](https://sveltescribe.vercel.app/) 
