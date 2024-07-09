@@ -1,3 +1,7 @@
+# Link to the web app
+
+[SvelteScribe](https://sveltescribe.vercel.app/) 
+
 We are excited to welcome you to the Svelte Fundamentals course, a key part of the Summer Internship Program 2024. In this tutorial, you'll learn the basics of Svelte by building a simple note application. This project will help you understand the core concepts of Svelte while creating a functional quick notes app.
 
 ## How to Contribute
