@@ -1,3 +1,7 @@
+# Link to the web app
+
+[SvelteScribe](https://sveltescribe.vercel.app/) 
+
 We are excited to welcome you to the Svelte Fundamentals course, a key part of the Summer Internship Program 2024. In this tutorial, you'll learn the basics of Svelte by building a simple note application. This project will help you understand the core concepts of Svelte while creating a functional quick notes app.
 
 ## How to Contribute
@@ -14,7 +18,3 @@ To enhance your learning experience and add more functionality to your project, 
 2. Use IndexedDB for storing notes instead of local storage. For easier interaction with IndexedDB, consider using the Dexie.js library.
 
 These challenges are designed to push your skills further and give you hands-on experience with more complex application features.
-
-# Link to the web app
-
-[SvelteScribe](https://sveltescribe.vercel.app/) 
