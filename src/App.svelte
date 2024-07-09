@@ -46,7 +46,7 @@
 
 <main class="p-4 h-auto">
     <section>
-        <h1 class="text-black text-3xl font-bold">Svelte Notes App</h1><br>
+        <h1 class="text-black text-3xl font-bold">SvelteScribe</h1><br>
         <div class="grid grid-cols-2 items-center mb-3">
             <input
                 class="text-black text-3xl font-bold border rounded-lg border-black p-2.5"
